@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'tech0-gen-8-step3-testapp-python-oka2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F253F9E25BA4F4FB152376B5D6483F2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB3435F5FC9F4BFBB187541ED2D1733A }}
